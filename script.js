@@ -151,7 +151,7 @@ progress_div.addEventListener("click", (event) => {
     song.currentTime = move_progress;
 });
 
-// for automatic next song function
+// for automatic next song function.
 song.addEventListener("ended", nextsong);
 
 
