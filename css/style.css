@@ -36,9 +36,9 @@ height: 55rem;
 
 
 /* background-color: #ffffff; */
-background-image: url(/images/background-2.jpg);
+/* background-image: url(/images/background-2.jpg); */
 
-/* background-image: linear-gradient(to top, #37ecba 0%, #72afd3 100%); */
+background-image: linear-gradient(to top, #37ecba 0%, #72afd3 100%);
 /* background-image: linear-gradient(to right, #92fe9d 0%, #00c9ff 100%); */
 
 
