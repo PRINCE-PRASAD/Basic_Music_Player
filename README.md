@@ -4,3 +4,9 @@ For more information click on repository...
 
 ![App Screenshot](https://github.com/PRINCE-PRASAD/Basic_Music_Player/blob/main/images/output.png?raw=true)
 
+## Demo
+
+https://basic-music-player-prince.netlify.app
+
+
+
